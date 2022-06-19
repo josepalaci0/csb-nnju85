@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-nnju85/static/css/main.5d53a2d3.chunk.css",
+    "main.js": "https://.github.io/csb-nnju85/static/js/main.860f204d.chunk.js",
+    "main.js.map": "https://.github.io/csb-nnju85/static/js/main.860f204d.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-nnju85/static/js/runtime-main.35ed905e.js",
+    "runtime-main.js.map": "https://.github.io/csb-nnju85/static/js/runtime-main.35ed905e.js.map",
+    "static/js/2.1bd60886.chunk.js": "https://.github.io/csb-nnju85/static/js/2.1bd60886.chunk.js",
+    "static/js/2.1bd60886.chunk.js.map": "https://.github.io/csb-nnju85/static/js/2.1bd60886.chunk.js.map",
+    "index.html": "https://.github.io/csb-nnju85/index.html",
+    "static/css/main.5d53a2d3.chunk.css.map": "https://.github.io/csb-nnju85/static/css/main.5d53a2d3.chunk.css.map",
+    "static/js/2.1bd60886.chunk.js.LICENSE.txt": "https://.github.io/csb-nnju85/static/js/2.1bd60886.chunk.js.LICENSE.txt",
+    "static/media/email.5142aeb5.png": "https://.github.io/csb-nnju85/static/media/email.5142aeb5.png",
+    "static/media/fotoperfil.3cbb9006.png": "https://.github.io/csb-nnju85/static/media/fotoperfil.3cbb9006.png",
+    "static/media/llamada-telefonica.aa3ff93a.png": "https://.github.io/csb-nnju85/static/media/llamada-telefonica.aa3ff93a.png",
+    "static/media/localizacion.ea827451.png": "https://.github.io/csb-nnju85/static/media/localizacion.ea827451.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35ed905e.js",
+    "static/js/2.1bd60886.chunk.js",
+    "static/css/main.5d53a2d3.chunk.css",
+    "static/js/main.860f204d.chunk.js"
+  ]
+}
